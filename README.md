@@ -1,10 +1,7 @@
-<p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
-</p>
 
 ---
 
-# [Built Portfolio With GitHub ](https://github.com/said7388/github-portfolio)
+# [Built Portfolio With GitHub ](https://github.com/dale054/My-Portfolio.git)
 
 ---
 
@@ -18,7 +15,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://dalerogers.netlify.app/).
 
 ---
 
@@ -74,9 +71,9 @@ git --version
 To Fork the repo click on the fork button at the top right of the page. Once the repo is forked open your terminal and perform the following commands
 
 ```bash
-git clone https://github.com/<YOUR GITHUB USERNAME>/developer-portfolio.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/My-Portfolio.git.git
 
-cd developer-portfolio
+cd My-Portfolio.git
 ```
 
 ### Install packages from the root directory
@@ -145,26 +142,26 @@ GMAIL_PASSKEY =
 EMAIL_ADDRESS =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/dale054/My-Portfolio.git/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Dale Rogers",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  description: "My name is Dale Rogers....",
+  email: "dale96905@gmail.com",
+  phone: "+1-313-555-0100",
+  address: "San Jose, CA",
+  github: "https://github.com/dale054",
+  facebook: "https://www.facebook.com/dale.rogers/",
+  linkedIn: "https://www.linkedin.com/in/dale054-bd/",
+  twitter: "https://twitter.com/dale054",
+  stackOverflow: "https://stackoverflow.com/users/16840768/dale054",
+  leetcode: "https://leetcode.com/dale054/",
+  devUsername: "dale054",
   resume: "...",
 };
 ```

@@ -50,8 +50,8 @@ function Skills() {
                     <Image
                       src={skillsImage(skill)?.src}
                       alt={skill}
-                      width={40}
-                      height={40}
+                      width={100}
+                      height={100}
                       className="h-full w-auto rounded-lg"
                     />
                   </div>
